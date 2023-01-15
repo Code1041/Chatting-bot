@@ -1,0 +1,220 @@
+COUTSTATEMENT?
+cout<<"This is C++ Programming";
+end
+
+COUT?
+cout<<"This is C++ Programming";
+end
+
+CINSTATEMENT?
+cin>>variable_name;
+end
+
+CIN?
+cin>>variable_name;
+end
+
+DATATYPES?
+
+Character type: #
+char variable_name; #
+
+Integer type: #
+int variable_name; #
+
+Float type: #
+float variable_name; #
+
+Double type: #
+double variable_name; #
+
+Void type: # 
+Represents the absence of the type #
+
+Boolean type: #
+bool #
+end 
+
+DATATYPE?
+
+Character type: #
+char variable_name; #
+
+Integer type: #
+int variable_name; #
+
+Float type: #
+float variable_name; #
+
+Double type: #
+double variable_name; #
+
+Void type: # 
+Represents the absence of the type #
+
+Boolean type: #
+bool #
+end 
+
+SINGLELINECOMMENT?
+// It's a single line comment
+end
+
+MULTILINECOMMENT?
+/* It's a 
+multi-line
+comment
+*/
+end
+
+IFSTATEMENT?
+if (condition) #
+{ #
+// This block of code will get executed, if the condition is True #
+}
+end
+
+IFELSESTATEMENT?
+if (condition) #
+{ #
+// If condition is True then this block will get executed #
+} #
+else #
+{ #
+// If condition is False then this block will get executed #
+}
+end
+
+SWITCHSTATEMENT?
+switch (expression) #
+{
+case constant-expression: #
+statement1; #
+statement2; #
+break; #
+case constant-expression: #
+statement; #
+break; #
+... #
+default: #
+statement; #
+}
+end
+
+WHILELOOP?
+while (/* condition */) #
+{ #
+/* code block to be executed */ #
+}
+end
+
+DOWHILELOOP?
+do #
+{ #
+/* code */ #
+} while (/* condition */); #
+end
+
+FORLOOP?
+for (int i = 0; i < count; i++) #
+{ #
+/* code */ #
+}
+end
+
+FOR?
+for (int i = 0; i < count; i++) #
+{ #
+/* code */ #
+}
+end
+
+IF?
+if (condition) #
+{ #
+// This block of code will get executed, if the condition is True #
+}
+end
+
+IFELSE?
+if (condition) #
+{ #
+// If condition is True then this block will get executed #
+} #
+else #
+{ #
+// If condition is False then this block will get executed #
+}
+end
+
+SWITCH?
+switch (expression) #
+{
+case constant-expression: #
+statement1; #
+statement2; #
+break; #
+case constant-expression: #
+statement; #
+break; #
+... #
+default: #
+statement; #
+}
+end
+
+WHILE?
+while (/* condition */) #
+{ #
+/* code block to be executed */ #
+}
+end
+
+DOWHILE?
+do #
+{ #
+/* code */ #
+} while (/* condition */); #
+end
+
+FOR?
+for (int i = 0; i < count; i++) #
+{ #
+/* code */ #
+}
+end
+
+FUNCTION?
+return_type function_name(data_type parameter...) #
+{ #
+//code to be executed #
+}
+end
+
+CLASS?
+class Class_name #
+{ #
+public: // Access specifier #
+// fields #
+// functions #
+// blocks #
+};
+end
+
+CONSTRUCTOR?
+class className #
+{ // The class #
+public: // Access specifier #
+className() #
+{ // Constructor #
+cout << "Code With Hozaifa"; #
+} #
+}; #
+#
+int main() #
+{ #
+className obj_name; #
+return 0; #
+}
+end
+

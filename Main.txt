@@ -1,0 +1,528 @@
+C++?
+C++ is a programming language developed by Bjarne Stroustrup in 1979.
+C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights.
+end
+
+CPLUSPLUS?
+C++ is a programming language developed by Bjarne Stroustrup in 1979.
+C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights.
+end
+
+COUT?
+cout is a C++ stream output operator. It is used to output text to the standard output stream, which is usually the screen.
+end
+
+CPP?
+The .cpp file extension is used for source code files written in the C++ programming language.
+end
+
+CIN?
+cin is the standard input stream in C++. It is used to read input from the keyboard or from a file.
+end
+
+COMMENTS?
+Comments in C++ are used to add notes to your code. Anything you write after a double slash // is considered a comment and will be ignored by the compiler. 
+This can be useful for adding information about your code, or for temporary code that you don't want to compile.
+end
+
+ACOMMENT?
+Comments in C++ are used to add notes to your code. Anything you write after a double slash // is considered a comment and will be ignored by the compiler. 
+This can be useful for adding information about your code, or for temporary code that you don't want to compile.
+end
+
+HEADERFILES?
+A header file is a file that contains C++ declarations and macro definitions (but not implementations) to be shared between several source files. 
+There are two types of header files: system header files and user header files.
+end
+
+ABREAKSTATEMENT?
+break keyword inside the loop is used to terminate the loop
+end
+
+BREAKSTATEMENT?
+break keyword inside the loop is used to terminate the loop
+end
+
+CONTINUESTATEMENT?
+continue keyword skips the rest of the current iteration of the loop and returns to the starting point of the loop
+end
+
+ACONTINUESTATEMENT?
+continue keyword skips the rest of the current iteration of the loop and returns to the starting point of the loop.
+end
+
+DIFFERENCEBETWEENCONTINUEANDBREAKSTATEMENT?
+break keyword inside the loop is used to terminate the loop.
+continue keyword skips the rest of the current iteration of the loop and returns to the starting point of the loop.
+end
+
+FUNCTIONANDACLASS?
+Functions are used to divide an extensive program into smaller pieces. It can be called multiple times to provide reusability and modularity to the C program.
+
+A Class is a user-defined data type widely used in C++, which holds its own data and functions whose access is governed by three access specifiers private, public or protected. 
+Classes are used in C++ in order to run different programs at a time by making different classes instead of writing a complex program. 
+Moreover, C++ uses classes to make it easy to work with objects.
+end
+
+FUNCTIONANDCLASS?
+Functions are used to divide an extensive program into smaller pieces. It can be called multiple times to provide reusability and modularity to the C program.
+
+A Class is a user-defined data type widely used in C++, which holds its own data and functions whose access is governed by three access specifiers private, public or protected. 
+Classes are used in C++ in order to run different programs at a time by making different classes instead of writing a complex program. 
+Moreover, C++ uses classes to make it easy to work with objects.
+end
+
+FUNCTIONS?
+Functions are used to divide an extensive program into smaller pieces. It can be called multiple times to provide reusability and modularity to the C program.
+end
+
+AFUNCTION?
+Functions are used to divide an extensive program into smaller pieces. It can be called multiple times to provide reusability and modularity to the C program.
+end
+
+RECURSION?
+Recursion is when a function calls a copy of itself to work on a minor problem. And the function that calls itself is known as the Recursive function.
+end
+
+IFSTATEMENT?
+If statement is a type of conditional statement which is used to execute a certain set of statements based on a condition.
+end
+
+IFELSESTATEMENTS?
+If else statements are used to execute different code blocks based on whether a condition is true or false.
+
+If the condition is true, the code in the if block will be executed.
+
+If the condition is false, the code in the else block will be executed.
+end
+
+IFELSESTATEMENT?
+If else statements are used to execute different code blocks based on whether a condition is true or false.
+
+If the condition is true, the code in the if block will be executed.
+
+If the condition is false, the code in the else block will be executed.
+end
+
+
+ASWITCHSTATEMENT?
+A switch statement is a type of selection control statement that allows a programmer to select one of a number of code blocks to execute.
+end
+
+SWITCHSTATEMENT?
+A switch statement is a type of selection control statement that allows a programmer to select one of a number of code blocks to execute.
+end
+
+GOTOSTATEMENT?
+The goto statement is a statement that causes an unconditional jump to another statement.
+end
+
+FORLOOP?
+A for loop is a C++ programming construct that allows code to be repeatedly executed. A for loop is useful when the number of iterations that a program needs to perform is known in advance.
+end
+
+AFORLOOP?
+A for loop is a C++ programming construct that allows code to be repeatedly executed. A for loop is useful when the number of iterations that a program needs to perform is known in advance.
+end
+
+FOR?
+A for loop is a C++ programming construct that allows code to be repeatedly executed. A for loop is useful when the number of iterations that a program needs to perform is known in advance.
+end
+
+AWHILELOOP?
+While loop is a type of loop that runs a block of code as long as a specified condition is true.
+end
+
+WHILELOOP?
+While loop is a type of loop that runs a block of code as long as a specified condition is true.
+end
+
+WHILE?
+While loop is a type of loop that runs a block of code as long as a specified condition is true.
+end
+
+DOWHILELOOP?
+The do-while loop is a variation of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+end
+
+DOWHILE?
+The do-while loop is a variation of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+end
+
+ASSIGNMENTOPERATORS?
+In C++, assignment operators are used for assigning values to variables.
+
+The assignment operator (=) is the most common assignment operator.
+
+Other assignment operators include +=, -=, *=, /=, %=, &=, ^=, |=, <<=, >>=, and so on.
+end
+
+ASSIGNMENTOPERATOR?
+In C++, assignment operators are used for assigning values to variables.
+
+The assignment operator (=) is the most common assignment operator.
+
+Other assignment operators include +=, -=, *=, /=, %=, &=, ^=, |=, <<=, >>=, and so on.
+end
+
+ALOGICALOPERATOR?
+Logical operators in C++ are used to combine two or more conditions to create complex conditions. The logical operators are: #
+&& (and) #
+|| (or) #
+! (not) #
+end
+
+LOGICALOPERATOR?
+Logical operators in C++ are used to combine two or more conditions to create complex conditions. The logical operators are: #
+&& (and) #
+|| (or) #
+! (not) #
+end
+
+LOGICALOPERATORS?
+Logical operators in C++ are used to combine two or more conditions to create complex conditions. The logical operators are: #
+&& (and) #
+|| (or) #
+! (not) #
+end
+
+ADEFAULTCONSTRUCTOR?
+A default constructor is a constructor which is used when no other constructor is provided. The default constructor is invoked when an object is created with no arguments.
+end
+
+ADEFAULTCONSTRUCTOR?
+A default constructor is a constructor which is used when no other constructor is provided. The default constructor is invoked when an object is created with no arguments.
+end
+
+DEFAULTCONSTRUCTORS?
+A default constructor is a constructor which is used when no other constructor is provided. The default constructor is invoked when an object is created with no arguments.
+end
+
+APARAMETERIZEDCONSTRUCTORS?
+A parameterized constructor is a constructor that can be invoked with a set of parameters. This allows objects to be initialized with different values when they are created.
+end
+
+PARAMETERIZEDCONSTRUCTORS?
+A parameterized constructor is a constructor that can be invoked with a set of parameters. This allows objects to be initialized with different values when they are created.
+end
+
+PARAMETERIZEDCONSTRUCTOR?
+A parameterized constructor is a constructor that can be invoked with a set of parameters. This allows objects to be initialized with different values when they are created.
+end
+
+ARRAYS?
+Arrays in C++ are data structures that store a collection of items (known as elements) of the same type. 
+Arrays are often used to store large amounts of data, such as the contents of a file or a database.
+end
+
+ARRAY?
+Arrays in C++ are data structures that store a collection of items (known as elements) of the same type. 
+Arrays are often used to store large amounts of data, such as the contents of a file or a database.
+end
+
+ONEDIMENSIONALARRAY?
+A 1-D array is a linear array or one-dimensional array. It is an array of elements that are arranged in a single row or column.
+end
+
+1-DIMENSIONALARRAY?
+A 1-D array is a linear array or one-dimensional array. It is an array of elements that are arranged in a single row or column.
+end
+
+2-DIMENSIONALARRAY?
+A 2-D array is an array of arrays. The elements of a 2-D array are arranged in rows and columns, and the array can be manipulated as a whole or as individual rows and columns.
+end
+
+TWODIMENSIONALARRAY?
+A 2-D array is an array of arrays. The elements of a 2-D array are arranged in rows and columns, and the array can be manipulated as a whole or as individual rows and columns.
+end
+
+ONEDIMENSIONALARRAYS?
+A 1-D array is a linear array or one-dimensional array. It is an array of elements that are arranged in a single row or column.
+end
+
+1-DIMENSIONALARRAYS?
+A 1-D array is a linear array or one-dimensional array. It is an array of elements that are arranged in a single row or column.
+end
+
+2-DIMENSIONALARRAYS?
+A 2-D array is an array of arrays. The elements of a 2-D array are arranged in rows and columns, and the array can be manipulated as a whole or as individual rows and columns.
+end
+
+TWODIMENSIONALARRAYS?
+A 2-D array is an array of arrays. The elements of a 2-D array are arranged in rows and columns, and the array can be manipulated as a whole or as individual rows and columns.
+end
+
+OPERATOROVERLOADING?
+Operator overloading is a feature of C++ that allows operators to be redefined to work with user-defined types (classes). 
+This allows programmers to use operators with user-defined types in the same way that they use them with the built-in types. 
+For example, the + operator can be used to add two numbers together, or it can be used to concatenate two strings.
+end
+
+CASTOPERATOR?
+The cast operator in C++ is used to convert one data type to another. For example, you can use the cast operator to convert an int to a char.
+end
+
+ARANDOMNUMBERGENERATOR?
+A random number generator is a function that generates a sequence of numbers that is random.
+
+There are many different ways to create a random number generator, but the most common way is to use the rand() function.
+
+The rand() function is a built-in function in C++ that generates a random number between 0 and RAND_MAX (a constant defined in the header file).
+
+To use the rand() function, you need to include the header file.
+end
+
+RANDOMNUMBERGENERATOR?
+A random number generator is a function that generates a sequence of numbers that is random.
+
+There are many different ways to create a random number generator, but the most common way is to use the rand() function.
+
+The rand() function is a built-in function in C++ that generates a random number between 0 and RAND_MAX (a constant defined in the header file).
+
+To use the rand() function, you need to include the header file.
+end
+
+FILEHANDLING?
+File handling is a process of storing or manipulating data in files. It is a way to store data permanently in a secondary storage device. #
+There are four main operations that can be performed on files: #
+1. Create #
+2. Open #
+3. Read #
+4. Write #
+#
+Create: #
+This operation is used to create a new file. If the file already exists, it will be overwritten. #
+#
+Open: #
+#
+This operation is used to open an existing file. If the file does not exist, an error will be generated. #
+#
+Read: #
+ #
+This operation is used to read data from a file. The data is read one byte at a time. #
+ #
+Write: #
+ #
+This operation is used to write data to a file. The data is written one byte at a time. 
+end
+
+TOREADFILES?
+ifstream function in fstream class is used to read files.
+end
+
+TOWRITEFILES?
+ofstream function in fstream class is used to overwrite files.
+end
+
+ACCESSSPECIFIERS?
+There are three access specifiers in C++:
+
+public: 
+The members of a class declared public can be accessed from anywhere outside the class. 
+
+private: 
+The members of a class declared private can only be accessed from within the same class. 
+
+protected: 
+The members of a class declared protected can be accessed from within the same class or from a derived class.
+end
+
+ARETURNSTATEMENT?
+The return statement terminates the execution of a function and returns control to the calling function. By default, return causes the function to return the value 0.
+end
+
+RETURNSTATEMENT?
+The return statement terminates the execution of a function and returns control to the calling function. By default, return causes the function to return the value 0.
+end
+
+EXITSTATEMENT?
+The exit statement is used to indicate the termination of the program. It can be used to either exit the program or exit the current function.
+end
+
+ACERRSTATEMENT?
+The cerr statement is used to display an error message to the standard error stream.
+end
+
+CERRSTATEMENT?
+The cerr statement is used to display an error message to the standard error stream.
+end
+
+GLOBALVARIABLES?
+Global variables are variables that are accessible from anywhere in the code.
+They are typically declared at the top of a file, outside of any functions.
+end
+
+AGLOBALVARIABLE?
+Global variables are variables that are accessible from anywhere in the code.
+They are typically declared at the top of a file, outside of any functions.
+end
+
+GLOBALVARIABLE?
+Global variables are variables that are accessible from anywhere in the code.
+They are typically declared at the top of a file, outside of any functions.
+end
+
+LOCALVARIABLES?
+Local variables are variables that are declared inside a function.
+They can only be accessed inside the function in which they are declared.
+Local variables are created when the function is called and destroyed when the function ends.
+end
+
+ALOCALVARIABLE?
+Local variables are variables that are declared inside a function.
+They can only be accessed inside the function in which they are declared.
+Local variables are created when the function is called and destroyed when the function ends.
+end
+
+LOCALVARIABLE?
+Local variables are variables that are declared inside a function.
+They can only be accessed inside the function in which they are declared.
+Local variables are created when the function is called and destroyed when the function ends.
+end
+
+ADDRESSOPERATORS?
+The address operators in C++ are "&" and "*". The "&" operator is used to take the address of a variable. The "*" operator is used to declare a pointer variable.
+end
+
+ADDRESSOPERATOR?
+The address operators in C++ are "&" and "*". The "&" operator is used to take the address of a variable. The "*" operator is used to declare a pointer variable.
+end
+
+POINTERS?
+A pointer is a variable that holds a memory address. This address is the location of another value, such as another variable or an array element. 
+Pointers are commonly used to store the address of an array so that it can be accessed by its element number.
+end
+
+APOINTER?
+A pointer is a variable that holds a memory address. This address is the location of another value, such as another variable or an array element. 
+Pointers are commonly used to store the address of an array so that it can be accessed by its element number.
+end
+
+POINTER?
+A pointer is a variable that holds a memory address. This address is the location of another value, such as another variable or an array element. 
+Pointers are commonly used to store the address of an array so that it can be accessed by its element number.
+end
+
+LOOPS?
+A Loop is a sequence of instructions that is repeatedly executed until a certain condition is reached. 
+A Variable is Initialized and it is checked with the condition everytime when the loop executes.
+If the condition is true, the loop continues its execution and terminates when it is false.
+They are used to recur a group of statements in a program without writing them every time 
+,so they save time and makes the program short and easily understandable.
+end
+
+ALOOP?
+A Loop is a sequence of instructions that is repeatedly executed until a certain condition is reached. 
+A Variable is Initialized and it is checked with the condition everytime when the loop executes.
+If the condition is true, the loop continues its execution and terminates when it is false.
+They are used to recur a group of statements in a program without writing them every time 
+,so they save time and makes the program short and easily understandable.
+
+end
+
+USERFUNCTION?
+C++ allows the user to define their own Function which makes the program easy to understand. 
+User can define more than one Functions of their own in a program, 
+by providing the reference of that Function in the main Function (int main() ) of the Program.
+end
+
+AUSERFUNCTION?
+C++ allows the user to define their own Function which makes the program easy to understand. 
+User can define more than one Functions of their own in a program, 
+by providing the reference of that Function in the main Function (int main() ) of the Program.
+end
+
+
+USER?
+C++ allows the user to define their own Function which makes the program easy to understand. 
+User can define more than one Functions of their own in a program, 
+by providing the reference of that Function in the main Function (int main() ) of the Program.
+end
+
+AUSER?
+C++ allows the user to define their own Function which makes the program easy to understand. 
+User can define more than one Functions of their own in a program, 
+by providing the reference of that Function in the main Function (int main() ) of the Program.
+end
+
+AGETLINEFUNCTION?
+Getline() Function in C++ is an alternative function of cin(), 
+it does the same work as cin(), that is, 
+it is used to take input from the user to run the program further. 
+end
+
+GETLINEFUNCTION?
+Getline() Function in C++ is an alternative function of cin(), 
+it does the same work as cin(), that is, 
+it is used to take input from the user to run the program further. 
+end
+
+AGETLINE?
+Getline() Function in C++ is an alternative function of cin(), 
+it does the same work as cin(), that is, 
+it is used to take input from the user to run the program further. 
+end
+
+GETLINE?
+Getline() Function in C++ is an alternative function of cin(), 
+it does the same work as cin(), that is, 
+it is used to take input from the user to run the program further. 
+end
+
+DATATYPES?
+A Data type basically tells the compiler how the programmer plans to store and use the data.  #
+Example:  #
+int (Used to store Integer type values)-(Uses 2 Bytes)   #
+float (Used to store Decimal type values)-(Uses 4 Bytes) # 
+double (Used to store Large Decimal type values)-(Uses 8 Bytes) #
+Char (Used to store Character)-(Uses 1 Byte) #
+end
+
+DATATYPE?
+A Data type basically tells the compiler how the programmer plans to store and use the data.  #
+Example:  #
+int (Used to store Integer type values)-(Uses 2 Bytes)   #
+float (Used to store Decimal type values)-(Uses 4 Bytes) # 
+double (Used to store Large Decimal type values)-(Uses 8 Bytes) #
+Char (Used to store Character)-(Uses 1 Byte) #
+end
+
+CLASSES?
+A Class is a user-defined data type widely used in C++, which holds its own data and functions whose access is governed by three access specifiers private, public or protected. 
+Classes are used in C++ in order to run different programs at a time by making different classes instead of writing a complex program. 
+Moreover, C++ uses classes to make it easy to work with objects.
+end
+
+ACLASS?
+A Class is a user-defined data type widely used in C++, which holds its own data and functions whose access is governed by three access specifiers private, public or protected. 
+Classes are used in C++ in order to run different programs at a time by making different classes instead of writing a complex program. 
+Moreover, C++ uses classes to make it easy to work with objects.
+end
+
+CLASS?
+A Class is a user-defined data type widely used in C++, which holds its own data and functions whose access is governed by three access specifiers private, public or protected. 
+Classes are used in C++ in order to run different programs at a time by making different classes instead of writing a complex program. 
+Moreover, C++ uses classes to make it easy to work with objects.
+end
+
+CONSTRUCTORS?
+A Constructor is a Special member Function that must be defined with the same name as the class, so that the Compiler can distinguish it from the class's other member functions. 
+The main diffrence between constructors and other functions is that constructors cannot return values, so they cannot specify a return type. Normally, Constructors are declared public.
+end
+
+ACONSTRUCTOR?
+A Constructor is a Special member Function that must be defined with the same name as the class, so that the Compiler can distinguish it from the class's other member functions. 
+The main diffrence between constructors and other functions is that constructors cannot return values, so they cannot specify a return type. Normally, Constructors are declared public.
+end
+
+CONSTRUCTOR?
+A Constructor is a Special member Function that must be defined with the same name as the class, so that the Compiler can distinguish it from the class's other member functions. 
+The main diffrence between constructors and other functions is that constructors cannot return values, so they cannot specify a return type. Normally, Constructors are declared public.
+end
+
+
+TYPESCONSTRUCTORS?
+There are two types of Constructors (Default and Parameterized). 
+Default Constructor has no parameters. 
+Parameterized Constructors are local to each function and they don't interfere with each other, so one can use the same parameter names in different functions.
+end
